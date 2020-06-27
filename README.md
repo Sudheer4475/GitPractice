@@ -1,2 +1,2 @@
 # GitPractice
-Oorike Practice kosam
+Oorike Practice kosam....
